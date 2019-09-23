@@ -1,0 +1,20 @@
+//Abstract imports
+@import "abstracts/variables";
+
+
+// base imports
+@import  "base/animations";
+@import  "base/base";
+@import  "base/typography";
+@import  "base/utilities";
+
+// components imports
+@import "components/button";
+@import "components/form";
+
+
+// layout imports
+@import "layouts/grid";
+@import "layouts/header";
+// pages imports
+@import "pages/home"; 

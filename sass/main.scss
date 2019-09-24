@@ -1,4 +1,5 @@
 //Abstract imports
+@import "abstracts/mixins";
 @import "abstracts/variables";
 
 
@@ -16,5 +17,7 @@
 // layout imports
 @import "layouts/grid";
 @import "layouts/header";
+
 // pages imports
+@import "pages/calendar";
 @import "pages/home"; 

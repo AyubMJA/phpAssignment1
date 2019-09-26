@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet"> -->
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>Calendar - For humans</title>
+</head>
+<body>
+    
+    <!-- Header Section -->
+    <header class="header"> 
+        <div class="header__text-box">
+            <h1 class="heading-primary">
+                <span class="heading-primary--main">Calendar</span>
+                <span class="heading-primary--sub">For Humans</span>
+            </h1>
+            <a href="signup.php" class="btn btn--white btn--animated">Enter Calendar</a>
+        </div>
+    </header>
+
+</body>
+</html>
